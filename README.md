@@ -4,7 +4,7 @@ Stockastic is a machine learning-based stock price prediction system designed to
 🔍 Key Features
 📊 Historical Data Fetching using APIs like yfinance
 
-🤖 ML Models such as Linear Regression, LSTM, or ARIMA
+🤖 ML Models such as Linear Regression, ARIMA
 
 📈 Interactive Charts comparing actual vs. predicted prices
 
@@ -15,9 +15,9 @@ Stockastic is a machine learning-based stock price prediction system designed to
 🛠️ Tech Stack
 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
 
-Matplotlib / Plotly for visualizations
+Plotly for visualizations
 
-Streamlit for dashboard (optional)
+Streamlit for dashboard 
 
 yfinance for real-time and historical data
 
